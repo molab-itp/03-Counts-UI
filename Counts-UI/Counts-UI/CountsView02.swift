@@ -1,4 +1,8 @@
 //
+// SwiftUI intro
+//  Image modifiers: resizable,aspectRatio...
+//  Text modifiers font(.system(size:10))
+// Use Quick Help to decode code
 
 import SwiftUI
 

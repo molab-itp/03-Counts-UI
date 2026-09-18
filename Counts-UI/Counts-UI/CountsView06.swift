@@ -1,4 +1,6 @@
 //
+// SwiftUI intro
+// @State to select view via switch statement
 
 import SwiftUI
 

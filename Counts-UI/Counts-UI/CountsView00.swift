@@ -1,4 +1,8 @@
 //
+// SwiftUI intro
+// Defining a new View
+//  builtin views: Text, HStack, VStack, Image, ...
+//
 
 import SwiftUI
 

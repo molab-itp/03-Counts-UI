@@ -1,4 +1,6 @@
 //
+// SwiftUI intro
+// @State property wrapper for counter
 
 import SwiftUI
 

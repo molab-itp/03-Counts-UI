@@ -1,5 +1,9 @@
 //
-
+// SwiftUI intro
+//  enum used to represent icons
+//  ForEach on an array
+//  Button to change order of birds
+//
 import SwiftUI
 
 enum Fruit: String, CaseIterable {

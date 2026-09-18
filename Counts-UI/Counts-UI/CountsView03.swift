@@ -1,4 +1,8 @@
 //
+// SwiftUI intro
+// Using Image systemName
+//  Container view: VStack
+//
 
 import SwiftUI
 

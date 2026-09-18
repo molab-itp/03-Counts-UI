@@ -1,4 +1,7 @@
 //
+// SwiftUI intro
+// Using Quick Help to adjust View modifiers
+//
 
 import SwiftUI
 
