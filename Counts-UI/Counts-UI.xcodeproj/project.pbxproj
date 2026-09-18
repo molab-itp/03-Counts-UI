@@ -8,6 +8,7 @@
 
 /* Begin PBXFileReference section */
 		AB685453305A332000CEA712 /* Counts-UI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Counts-UI.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		AB9D8AD8305DBC0B0096206F /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -32,6 +33,7 @@
 		AB68544A305A332000CEA712 = {
 			isa = PBXGroup;
 			children = (
+				AB9D8AD8305DBC0B0096206F /* README.md */,
 				AB685455305A332000CEA712 /* Counts-UI */,
 				AB685454305A332000CEA712 /* Products */,
 			);
